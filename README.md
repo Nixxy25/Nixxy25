@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **tellaoyinkansola25@gmail.com**
 
-- 📄 Know about my experiences [https://tellaoyinkansola.vercel.app/Tella%20Oyinkansola-Portfolio.pdf](https://tellaoyinkansola.vercel.app/Tella%20Oyinkansola-Portfolio.pdf)
+- 📄 Know about my experiences [https://tellaoyinkansola.dev](https://tellaoyinkansola.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
