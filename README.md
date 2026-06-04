@@ -10,9 +10,11 @@ I build and ship products from first idea to production, working across the full
 
 [Pave](https://github.com/Nixxy25/pave-mvp) — Payment infrastructure for cross border businesses
 
+[Stallion](https://github.com/Nixxy25/Stallion) — Waitlist product for bounties
+
 [Shortly](https://github.com/Nixxy25/Shortly) — Link management tool
 
-[Stallion](https://github.com/Nixxy25/Stallion) — Waitlist product for bounties
+
 
 ---
 <h3 align="left">Tech Stack</h3>
