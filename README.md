@@ -6,7 +6,7 @@
 </p>
 <h3 align="left">About Me</h3>
 
-Frontend Engineer with 3+ years of experience shipping products from 0 to 1 and scaling them to production. Comfortable across the full frontend stack, with strong focus on component architecture, performance, and clean, accessible interfaces.Also experienced with AWS and cloud infrastructure.
+Shipping products from 0 to 1 and scaling them to production. Comfortable across the full frontend stack, with strong focus on component architecture, performance, and clean, accessible interfaces.Also experienced with AWS and cloud infrastructure.
 
 Passionate about building products that feel obvious in hindsight but were hard to figure out. Big on owning features end-to-end, from design handoff to production deploy, and using AI-assisted workflows to ship faster without cutting corners.
 
