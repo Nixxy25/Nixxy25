@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi, I'm Tella Oyinkansola</h1>
+<h1 align="left">👋 Hi, I'm Oyinkansola Tella</h1>
 
 <h3 align="left">About</h3>
 
